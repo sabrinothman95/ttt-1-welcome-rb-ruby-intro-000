@@ -1,3 +1,4 @@
 puts "Welcome, to tic tac toe!"
-lib/welcome.rb
+ruby lib/welcome.rb
 puts "lib/welcome.rb"
+puts "Welcome to Tic Tac Toe!" in lib/welcome.rb
